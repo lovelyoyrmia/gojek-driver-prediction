@@ -1,0 +1,1 @@
+# AI-powered image recognition application
